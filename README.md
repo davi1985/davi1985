@@ -1,4 +1,4 @@
-### Hi there 👋, Davi Silva
+### Hi there 👋, I am Davi Silva
 I'm a Analysis Systems student and Web Developer with emphasis in HTML 5, CSS3, Javascript and React.
 
 ### What I'm focusing on  🧑‍💻⚡️
