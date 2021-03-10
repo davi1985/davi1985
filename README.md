@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Davi Silva
-I'm a Analysis Systems student and Web Developer with emphasis in HTML 5, CSS3, Javascript and React.
+I've be an security guard for 10 years and I'm 35 year old. This is year I will finished my degree in
+System Analysis and Development. My focus is on front end development - HTML, CSS and JS (React).
 
 ### What I'm focusing on  🧑‍💻⚡️
 
