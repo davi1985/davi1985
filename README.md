@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Davi Silva
-I've ben an security guard for 10 years and I'm 35 years old. This year I will finished my degree in
+I've been an security guard for 10 years and I'm 35 years old. This year I will finished my degree in
 System Analysis and Development. My focus is on front end development - HTML, CSS and JS (React).
 
 ### What I'm focusing on  🧑‍💻⚡️
