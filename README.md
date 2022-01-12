@@ -36,7 +36,7 @@ Currently improving my English and Javascript skills.
   </a>
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
 <!-- <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=davi1985&show_icons=true&theme=dracula" alt="davisilva's stats"/>
