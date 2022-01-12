@@ -38,7 +38,7 @@ Currently improving my English and Javascript skills.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<!-- <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=davi1985&show_icons=true&theme=dracula" alt="davisilva's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi1985&layout=compact&theme=dracula" alt="davisilva's most languages"/>
-</p>
+</p> -->
