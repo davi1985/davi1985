@@ -6,8 +6,9 @@
 
 
 ### About me
-I'm 35 years old. This year I will finished my degree in
-System Analysis and Development. In my job usually I working with technologies like - ReactJS, NextJS and Typescript.
+I'm an engaged and excited developer, developing my skills in front-end development. I was a security guard for 11 years, when I was 32 years I started my first degree, and I finally graduate in 2021.
+
+I'm currently working as a Front End at Midway.
 
 ### What I'm focusing on  🧑‍💻⚡️
 
