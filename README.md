@@ -3,6 +3,7 @@
 
 - 🏁 Front End Web Developer
 - 🔭 I’m currently working on [Midway](https://www.midway.com.br)
+- 🎓 Degree in System Analysis and Development
 
 
 ### About me
