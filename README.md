@@ -1,20 +1,16 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/davi1985/c969963334f822180053cdba8c350bbd/raw/5c1ae1dfca6cb681bdbb024ab76d754b4da66706/githubcard.svg"/> -->
 
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Silva, <br>Thanks for visiting my profile!</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Silva!</h1>
 
-- 🏁 Front End Web Developer
-- 🔭 I’m currently working on [Midway](https://www.midway.com.br)
-- 🎓 Degree in System Analysis and Development
+### 🙏Thanks for visiting my profile!
 
+- 🏁 <b>Front End Developer</b> at [Midway](https://www.midway.com.br)
+- 🎓 Graduated in Systems Analysis and Development
+- 💬 Ask me about JavaScript, HTML, CSS, React, Typescript and Node.JS
 
 ### About me
 
-
 I have been developing software for less than 1 year, focused on Frontend Development using React, NextJS, Styled Components, Storybook, Typescript, Jest, and Testing Library. I have great skills in problem-solving, leadership and teamwork, giving and receiving feedback, and communication.
-
-Graduated in Systems Analisis and Development.
-
-I'm currently working remotely as a Front End at Midway.
 
 ### What I'm focusing on  🧑‍💻⚡️
 
