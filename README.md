@@ -1,5 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/davi1985/c969963334f822180053cdba8c350bbd/raw/5c1ae1dfca6cb681bdbb024ab76d754b4da66706/githubcard.svg"/>
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Silva</h1>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/davi1985/c969963334f822180053cdba8c350bbd/raw/5c1ae1dfca6cb681bdbb024ab76d754b4da66706/githubcard.svg"/> -->
+
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Silva, <br>Thanks for visiting my profile!</h1>
 
 - 🏁 Front End Web Developer
 - 🔭 I’m currently working on [Midway](https://www.midway.com.br)
@@ -7,13 +8,17 @@
 
 
 ### About me
-I'm an engaged and excited developer, developing my skills in front-end development. I was a security guard for 11 years, when I was 32 years I started my first degree, and I finally graduate in 2021.
 
-I'm currently working as a Front End at Midway.
+
+I have been developing software for less than 1 year, focused on Frontend Development using React, NextJS, Styled Components, Storybook, Typescript, Jest, and Testing Library. I have great skills in problem-solving, leadership and teamwork, giving and receiving feedback, and communication.
+
+Graduated in Systems Analisis and Development.
+
+I'm currently working remotely as a Front End at Midway.
 
 ### What I'm focusing on  🧑‍💻⚡️
 
-Currently improving my English and Javascript skills. 
+Currently improving my English and Javascript/Typescript skills. 
 
 ## 🛠 &nbsp;Tech Stack
 
