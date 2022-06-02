@@ -1,6 +1,6 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/davi1985/c969963334f822180053cdba8c350bbd/raw/5c1ae1dfca6cb681bdbb024ab76d754b4da66706/githubcard.svg"/> -->
 
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Silva!</h1>
+<h1 align="left">Hi there 👋, I'm Davi Silva!</h1>
 
 ### 🙏Thanks for visiting my profile!
 
