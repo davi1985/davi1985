@@ -10,7 +10,7 @@
 
 ### About me
 
-I have been developing software for less than 1 year, focused on Frontend Development using React, NextJS, Styled Components, Storybook, Typescript, Jest, and Testing Library. I have great skills in problem-solving, leadership and teamwork, giving and receiving feedback, and communication.
+I have been developing software focused on Frontend Development using React, NextJS, Styled Components, Storybook, Typescript, Jest, and Testing Library. I have great skills in problem-solving, leadership and teamwork, giving and receiving feedback, and communication.
 
 ### What I'm focusing on  🧑‍💻⚡️
 
