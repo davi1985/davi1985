@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Davi Silva! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/vittor-emanoel-8971321b1/)](https://www.linkedin.com/in/in/davisilva85/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/vittor-emanoel-8971321b1/)](https://www.linkedin.com/in/davisilva85/)
 
 🙏Thanks for visiting my profile!
 
