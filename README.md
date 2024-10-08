@@ -7,13 +7,13 @@
 
 - 🏁 <b>Front End Developer</b> at [Midway](https://www.midway.com.br)
 - 🎓 Graduated in Systems Analysis and Development
-- 💬 Ask me about JavaScript, HTML, CSS, React, Typescript and Node.JS
+- 💬 Ask me about JavaScript, HTML, CSS, React, Typescript, and Node.JS
 
 #### About me
 
-I'm a dedicated Software Engineer specializing in front-end and mobile development, with expertise in crafting seamless user experiences using technologies such as React, React Native, Next.js, JavaScript, and TypeScript. I have great skills in problem-solving, leadership and teamwork, giving and receiving feedback, and communication.
+I'm a dedicated Software Engineer specializing in front-end and mobile development. I am an expert in crafting seamless user experiences using React, Next.js, Typescript, and JavaScript technologies. I have great skills in problem-solving, leadership, teamwork, giving and receiving feedback, and communication.
 
-In my arsenal, I wield expertise in React Query, Testing Library, Tailwind CSS, Styled Components, and React Hook Forms. I've gained valuable experience through various projects focused on acquiring new clients, onboarding processes, and enhancing user experience.
+I have expertise in React Query, Testing Library, Tailwind CSS, Styled Components, and React Hook Forms. I've gained valuable experience through various projects focused on acquiring new clients, onboarding processes, and enhancing user experience.
 
 
 
