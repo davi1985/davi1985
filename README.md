@@ -5,7 +5,7 @@
 
 🙏Thanks for visiting my profile!
 
-- 🏁 <b>Front End Developer</b> at [Midway](https://www.midway.com.br)
+- 🏁 <b>Software Engineer</b> at [Wellhub](https://wellhub.com)
 - 🎓 Graduated in Systems Analysis and Development
 - 💬 Ask me about JavaScript, HTML, CSS, React, Typescript, and Node.JS
 
