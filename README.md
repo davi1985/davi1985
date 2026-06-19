@@ -1,24 +1,81 @@
 ![](https://komarev.com/ghpvc/?username=davi1985)
-### Hi there 👋, I'm Davi Silva! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/vittor-emanoel-8971321b1/)](https://www.linkedin.com/in/davisilva85/)
+# Hi, I'm Davi Silva 👋
 
-🙏Thanks for visiting my profile!
+**Software Engineer | React • Next.js • TypeScript • BFF Architecture**
 
-- 🏁 <b>Software Engineer</b> at [Wellhub](https://wellhub.com)
-- 🎓 Graduated in Systems Analysis and Development
-- 💬 Ask me about JavaScript, HTML, CSS, React, Typescript, and Node.JS
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/davisilva85/)
 
-#### About me
+I'm a Software Engineer with 5+ years of experience building scalable web applications and customer-facing products.
 
-I'm a dedicated Software Engineer specializing in front-end and mobile development. I am an expert in crafting seamless user experiences using React, Next.js, Typescript, and JavaScript technologies. I have great skills in problem-solving, leadership, teamwork, giving and receiving feedback, and communication.
+Currently, I work at Wellhub on the Billing Platform team, contributing to billing and payment experiences used by customers around the world. My work involves developing frontend applications with React and TypeScript and implementing Backends for Frontends (BFFs) using Nest.js and Next.js to enable seamless communication between user interfaces and backend services.
 
-I have expertise in React Query, Testing Library, Tailwind CSS, Styled Components, and React Hook Forms. I've gained valuable experience through various projects focused on acquiring new clients, onboarding processes, and enhancing user experience.
+I collaborate closely with Product, Design, Data, and Backend teams in a distributed international environment, helping deliver reliable, scalable, and user-centered solutions.
 
+My interests include frontend architecture, software quality, testing, developer experience, performance optimization, and product-focused engineering.
 
+## 💼 What I Do
 
-#### What I'm focusing on  🧑‍💻⚡️
+* Build customer-facing billing and payment experiences.
+* Develop scalable frontend applications using React, Next.js, and TypeScript.
+* Design and maintain Backends for Frontends (BFFs) with Nest.js and Next.js.
+* Contribute to platform initiatives focused on reliability, conversion, and user experience.
+* Collaborate with cross-functional teams to deliver business-impacting features.
+* Participate in architectural discussions, monitoring, troubleshooting, and continuous platform improvements.
 
-Currently improving my English and Javascript/Typescript skills. 
+## 🛠️ Tech Stack
 
-> Philippians 4:13, "I can do all things through Christ who strengthens me".
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Styled Components
+
+### Testing & Quality
+
+* Testing Library
+* Jest
+* React Query
+
+### Backend & Architecture
+
+* Node.js
+* Nest.js
+* Backends for Frontends (BFF)
+* REST APIs
+
+### Tools
+
+* Git
+* GitHub
+* Grafana
+* CI/CD
+* AWS
+
+## 🌱 Currently Learning
+
+* Advanced English communication
+* Software architecture
+* Distributed systems
+* Scalability and performance optimization
+
+## 💬 Ask Me About
+
+* React
+* Next.js
+* TypeScript
+* Frontend Architecture
+* BFF Architecture
+* Testing
+* Performance Optimization
+
+---
+
+> "I can do all things through Christ who strengthens me."
+>
+> **Philippians 4:13**
