@@ -32,7 +32,7 @@ My interests include frontend architecture, software quality, testing, developer
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-059669?style=flat-square)
 ![Design System](https://img.shields.io/badge/Design-System-7C3AED?style=flat-square)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 
 ## Currently Learning
 
@@ -40,6 +40,7 @@ My interests include frontend architecture, software quality, testing, developer
 * Software architecture
 * Distributed systems
 * Scalability and performance optimization
+* Golang
 
 ## Ask Me About
 
