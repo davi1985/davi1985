@@ -14,57 +14,34 @@ I collaborate closely with Product, Design, Data, and Backend teams in a distrib
 
 My interests include frontend architecture, software quality, testing, developer experience, performance optimization, and product-focused engineering.
 
-## 💼 What I Do
+## Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![BFF Architecture](https://img.shields.io/badge/BFF-Architecture-2563EB?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-059669?style=flat-square)
+![Design System](https://img.shields.io/badge/Design-System-7C3AED?style=flat-square)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-* Build customer-facing billing and payment experiences.
-* Develop scalable frontend applications using React, Next.js, and TypeScript.
-* Design and maintain Backends for Frontends (BFFs) with Nest.js and Next.js.
-* Contribute to platform initiatives focused on reliability, conversion, and user experience.
-* Collaborate with cross-functional teams to deliver business-impacting features.
-* Participate in architectural discussions, monitoring, troubleshooting, and continuous platform improvements.
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Styled Components
-
-### Testing & Quality
-
-* Testing Library
-* Jest
-* React Query
-
-### Backend & Architecture
-
-* Node.js
-* Nest.js
-* Backends for Frontends (BFF)
-* REST APIs
-
-### Tools
-
-* Git
-* GitHub
-* Grafana
-* CI/CD
-* AWS
-
-## 🌱 Currently Learning
+## Currently Learning
 
 * Advanced English communication
 * Software architecture
 * Distributed systems
 * Scalability and performance optimization
 
-## 💬 Ask Me About
+## Ask Me About
 
 * React
 * Next.js
