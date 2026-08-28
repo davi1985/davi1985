@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=davi1985)
-<img width="1023" height="1537" alt="WhatsApp Image 2026-08-28 at 09 30 53" src="https://github.com/user-attachments/assets/da8a9ee9-7439-4b29-8be9-680f85a514ea" />
 
 # Hi, I'm Davi Silva 👋
 
