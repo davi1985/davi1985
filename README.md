@@ -1,8 +1,6 @@
-![](https://komarev.com/ghpvc/?username=davi1985)
-
 # Hi, I'm Davi Silva 👋
 
-**Software Engineer | React • Next.js • TypeScript • BFF Architecture**
+**Senior Frontend Engineer | React • Next.js • NodeJS • TypeScript • BFF Architecture**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/davisilva85/)
 
@@ -13,6 +11,8 @@ Currently, I work at Wellhub on the Billing Platform team, contributing to billi
 I collaborate closely with Product, Design, Data, and Backend teams in a distributed international environment, helping deliver reliable, scalable, and user-centered solutions.
 
 My interests include frontend architecture, software quality, testing, developer experience, performance optimization, and product-focused engineering.
+
+## 🛠️ Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
