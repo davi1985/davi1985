@@ -42,15 +42,15 @@ A selection of projects I'm proud of — from architecture-heavy APIs to product
 
 | Project | What it does | Highlights |
 | :-- | :-- | :-- |
-| **[react-solid](https://github.com/davi1985/react-solid)** | e-book on React + SOLID principles with runnable examples | Free PDF guide · 20+ :star: |
-| **[ai-agent-mcp-demo](https://github.com/davi1985/ai-agent-mcp-demo)** | AI agent that discovers and calls tools at runtime through the Model Context Protocol | TypeScript · React · Next.js · zero-cost stack |
+| **[react-solid](https://github.com/davi1985/react-solid)** | e-book on React + SOLID principles with runnable examples | [Free PDF guide](https://github.com/davi1985/react-solid/blob/main/public/react-solid.pdf) · 20+ :star: |
+| **[ai-agent-mcp-demo](https://github.com/davi1985/ai-agent-mcp-demo)** | AI agent that discovers and calls tools at runtime through the Model Context Protocol | TypeScript · React · Next.js · [Live demo](https://web-rust-chi-38.vercel.app) |
 | **[satellite-tracker](https://github.com/davi1985/satellite-tracker)** | Real-time satellite tracker with a 3D globe | Go · Redis pub/sub · WebSocket · Cesium.js |
 | **[fincheck](https://github.com/davi1985/fincheck)** | Personal finance manager, full-stack | NestJS · Prisma · PostgreSQL · React + Vite |
 | **[products-api-node](https://github.com/davi1985/products-api-node)** | REST API for products built in layers | Domain-driven layers · DI · unit tests |
 | **[api-rest-nodejs](https://github.com/davi1985/api-rest-nodejs)** | REST API for financial transactions | Fastify 5 · Zod · Knex · session isolation |
 | **[react-tanstack-table](https://github.com/davi1985/react-tanstack-table)** | Advanced data table component | TanStack Table v8 · React 19 · Tailwind v4 |
 | **[waiterapp](https://github.com/davi1985/waiterapp)** | Restaurant order flow: mobile client plus web dashboard | React Native · Expo · Node.js · MongoDB |
-| **[countdown](https://github.com/davi1985/countdown)** | Countdown timer with a live demo | Vite · React · TypeScript · Sass |
+| **[countdown](https://github.com/davi1985/countdown)** | Countdown timer | Vite · React · TypeScript · Sass · [Live demo](https://countdown-davi1985.vercel.app) |
 
 ## Currently Learning
 
