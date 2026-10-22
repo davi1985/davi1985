@@ -50,6 +50,9 @@ A selection of projects I'm proud of — from architecture-heavy APIs to product
 | **[api-rest-nodejs](https://github.com/davi1985/api-rest-nodejs)** | REST API for financial transactions | Fastify 5 · Zod · Knex · session isolation |
 | **[react-tanstack-table](https://github.com/davi1985/react-tanstack-table)** | Advanced data table component | TanStack Table v8 · React 19 · Tailwind v4 |
 | **[waiterapp](https://github.com/davi1985/waiterapp)** | Restaurant order flow: mobile client plus web dashboard | React Native · Expo · Node.js · MongoDB |
+| **[go-layer-api](https://github.com/davi1985/go-layer-api)** | REST API for products in Go with layered architecture, Postgres and Docker | Go · Gin · manual DI · guide explaining Go through JS/TS analogies |
+| **[todo-service-golang](https://github.com/davi1985/todo-service-golang)** | Clean and scalable REST API for TODO items | Go · SQLite · Swagger · graceful shutdown · connection pooling |
+| **[gopportunities](https://github.com/davi1985/gopportunities)** | REST API for managing job openings | Go · Gin · GORM · [Interactive Swagger docs](https://davi1985.github.io/gopportunities/) |
 | **[countdown](https://github.com/davi1985/countdown)** | Countdown timer | Vite · React · TypeScript · Sass · [Live demo](https://countdown-davi1985.vercel.app) |
 
 ## Currently Learning
