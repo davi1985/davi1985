@@ -25,7 +25,9 @@ My interests include frontend architecture, software quality, testing, developer
 **Backend, Architecture & Testing**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
@@ -61,13 +63,13 @@ A selection of projects I'm proud of — from architecture-heavy APIs to product
 * Software architecture
 * Distributed systems
 * Scalability and performance optimization
-* Golang
 
 ## Ask Me About
 
 * React
 * Next.js
 * TypeScript
+* Go
 * Frontend Architecture
 * BFF Architecture
 * Testing
