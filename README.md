@@ -36,6 +36,22 @@ My interests include frontend architecture, software quality, testing, developer
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
+## :rocket: Featured Projects
+
+A selection of projects I'm proud of — from architecture-heavy APIs to production-ready front-ends and distributed systems.
+
+| Project | What it does | Highlights |
+| :-- | :-- | :-- |
+| **[react-solid](https://github.com/davi1985/react-solid)** | e-book on React + SOLID principles with runnable examples | Free PDF guide · 20+ :star: |
+| **[ai-agent-mcp-demo](https://github.com/davi1985/ai-agent-mcp-demo)** | AI agent that discovers and calls tools at runtime through the Model Context Protocol | TypeScript · React · Next.js · zero-cost stack |
+| **[satellite-tracker](https://github.com/davi1985/satellite-tracker)** | Real-time satellite tracker with a 3D globe | Go · Redis pub/sub · WebSocket · Cesium.js |
+| **[fincheck](https://github.com/davi1985/fincheck)** | Personal finance manager, full-stack | NestJS · Prisma · PostgreSQL · React + Vite |
+| **[products-api-node](https://github.com/davi1985/products-api-node)** | REST API for products built in layers | Domain-driven layers · DI · unit tests |
+| **[api-rest-nodejs](https://github.com/davi1985/api-rest-nodejs)** | REST API for financial transactions | Fastify 5 · Zod · Knex · session isolation |
+| **[react-tanstack-table](https://github.com/davi1985/react-tanstack-table)** | Advanced data table component | TanStack Table v8 · React 19 · Tailwind v4 |
+| **[waiterapp](https://github.com/davi1985/waiterapp)** | Restaurant order flow: mobile client plus web dashboard | React Native · Expo · Node.js · MongoDB |
+| **[countdown](https://github.com/davi1985/countdown)** | Countdown timer with a live demo | Vite · React · TypeScript · Sass |
+
 ## Currently Learning
 
 * Advanced English communication
